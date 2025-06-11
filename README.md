@@ -44,3 +44,5 @@ To effectively navigate Nexus Darknet, it's essential that you follow these prec
 ### Disclaimer:
 
 This guide is solely for educational purposes. The information supplied aims to help increase understanding of darknet operations. We do not endorse or promote any illegal activities. Always abide by the applicable laws and regulations in your jurisdiction.
+
+Update: Website url is live and reachable
