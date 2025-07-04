@@ -59,4 +59,6 @@ This guide is solely for educational purposes. The information supplied aims to 
 
 
 
-Update:  26.06.2025 08:44 Updated vulnerability reporting URLs
+
+
+Update:  04.07.2025
